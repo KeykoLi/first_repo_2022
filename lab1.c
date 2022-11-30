@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-
+//commentar
 int main()
 {
     double y = 7.315 , z = 3.127;
